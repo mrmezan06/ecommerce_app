@@ -6,3 +6,9 @@ A new Flutter project.
 
 - ### Splash Screen
 <img src="splashscreen.png" height="600" width="300" max-width="70%">
+
+- ### Registration Screen
+<img src="registrationscreen.png" height="600" width="300" max-width="70%">
+
+- ### Login Screen
+<img src="loginscreen.png" height="600" width="300" max-width="70%">

@@ -38,6 +38,7 @@ dependencies:
   firebase_core: ^1.13.1
   cloud_firestore: ^3.1.10
   flutter_screenutil: ^5.3.1
+  fluttertoast: ^8.0.9
 
 dev_dependencies:
   flutter_test:
